@@ -4,8 +4,8 @@
 Votre mission au sein d'entreprise Shazam En tant que développeur ReactJS consiste à créer une application Frontend à partir de la documentation API fournie par l'équipe backend de Shazam.
 
 ## Ressource(s)
-+ Documentation d'api de shazam [l'API Shazam](https://rapidapi.com/fr/apidojo/api/shazam/).
-+ Exemple de SHAZAM [https://www.shazam.com/fr](https://www.shazam.com/fr/).
++ Documentation d['API Shazam](https://rapidapi.com/fr/apidojo/api/shazam/).
++ Exemple de [Shazam](https://www.shazam.com/fr/).
 
 ### L’application proposant les fonctionnalités suivantes :
       + Identifiez n’importe quelle chanson.
