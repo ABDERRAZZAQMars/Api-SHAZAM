@@ -1,12 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './style/App.css';
+import { Routes, Route } from 'react-router-dom';
+import { HomePage } from './pages/index';
+import Layout from './components/shared/layout';
+
 
 function App() {
   return (
     <div>
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
+      <Routes>
+        <Route path='/' element={<Layout />}>
+          <Route index element={<HomePage/>} />
+        </Route>
+      </Routes>
     </div>
   );
 }
